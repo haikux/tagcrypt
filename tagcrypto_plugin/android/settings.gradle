@@ -1,0 +1,2 @@
+include ':tagcrypto'
+rootProject.name = 'tagcrypto_plugin'
