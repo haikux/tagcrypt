@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:2:3-41
+		INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.NFC
+ADDED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:3:5-62
+	android:name
+		ADDED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml:3:22-59
+uses-sdk
+INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
+INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
+		ADDED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/harish.kulasekaran/.pub-cache/hosted/pub.dartlang.org/nfc_in_flutter-2.0.5/android/src/main/AndroidManifest.xml
